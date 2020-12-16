@@ -1,0 +1,5 @@
+Throw dice
+Move the token
+Landed on snake head.
+At the bottom of ladder
+Climb the ladder
